@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> The Green Plate Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@the-green-plate.com\" target=\"_blank\">contact@the-green-plate.com</a><br/><strong>Phone:</strong> +1 (681) 254-5147</p>",
+            "text": "<p><strong>Business Name:</strong> GrowNest Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@the-green-plate.com\" target=\"_blank\">contact@Grow-Nest.com</a><br/><strong>Phone:</strong> +1 (681) 254-5147</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
